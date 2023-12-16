@@ -1,5 +1,8 @@
 "# DICE GAME" 
 
+Running the game
+- Open index.html in the browser to get started
+
 Game Rules:
 
 - The game has 2 players, playing in rounds.
