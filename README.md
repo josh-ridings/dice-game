@@ -1,4 +1,4 @@
-"# DICE GAME" 
+My First Javascript Game
 
 Running the game
 - Open index.html in the browser to get started
